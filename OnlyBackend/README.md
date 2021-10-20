@@ -1,0 +1,1 @@
+Build Dockerfile run Java Spring at port 8080
